@@ -1,4 +1,4 @@
 Pathway-Dialogue
 ================
 
-Pathway dialogue engine module
+A dialogue engine module for [Pathway](https://github.com/MeteorCode/Pathway).
